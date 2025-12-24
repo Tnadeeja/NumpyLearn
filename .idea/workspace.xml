@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d16a7fc4-fca1-46de-a071-2917000d677b" name="Changes" comment="index">
-      <change afterPath="$PROJECT_DIR$/shapeResahpe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchElements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.SearchElements.executor": "Run",
     "Python.copyAndView.executor": "Run",
     "Python.dataType.executor": "Run",
     "Python.demension.executor": "Run",
@@ -80,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1766510491935</updated>
       <workItem from="1766510492959" duration="497000" />
-      <workItem from="1766578064511" duration="4424000" />
+      <workItem from="1766578064511" duration="5412000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -114,6 +115,7 @@
     <SUITE FILE_PATH="coverage/NumpyLearn$dataType.coverage" NAME="dataType Coverage Results" MODIFIED="1766582887635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NumpyLearn$copyAndView.coverage" NAME="copyAndView Coverage Results" MODIFIED="1766583247010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NumpyLearn$shapeResahpe.coverage" NAME="shapeResahpe Coverage Results" MODIFIED="1766585738200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NumpyLearn$SearchElements.coverage" NAME="SearchElements Coverage Results" MODIFIED="1766587385319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NumpyLearn$iterating.coverage" NAME="iterating Coverage Results" MODIFIED="1766585026866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NumpyLearn$index.coverage" NAME="index Coverage Results" MODIFIED="1766580190539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

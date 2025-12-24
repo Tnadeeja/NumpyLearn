@@ -8,6 +8,7 @@ x[0]=9
 print("With copy")
 print(x)
 print(y)
+print(y.base)
 
 #view
 z = np.array([1,2,3,4,5,6])
@@ -18,3 +19,4 @@ z[0]=9
 print("With view")
 print(z)
 print(q)
+print(q.base)

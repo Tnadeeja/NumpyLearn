@@ -13,3 +13,5 @@ print(z.dtype)
 
 q = x.astype('i')
 print(q)
+
+print(x.astype(bool))
